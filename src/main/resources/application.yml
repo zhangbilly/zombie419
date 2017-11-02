@@ -1,0 +1,12 @@
+zombie419:
+  host: "http://127.0.0.1:8098"
+instagram:
+  clientid: "clientid"
+  secret: "secret"
+server:
+  port: 8098
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/zombie419"
+    username: "root"
+    password: "root"
